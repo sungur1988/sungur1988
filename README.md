@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with .Net Web API<br>🤝 I’m looking for help with Javascript,Vuejs<br>🌱 I’m currently learning Javascript,Vuejs<br>💬 Ask me about .Net Web API<br>
+🔭 I’m currently working with .Net Web API💬 Ask me about .Net Web API<br>
 
 
 ## 🌐 Socials:
